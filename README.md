@@ -1,4 +1,4 @@
-![Tescik](https://raw.github.com/imienazwi/tescik/logo/logo.png "tescik")
+![tescik](https://raw.github.com/imienazwi/tescik/logo/logo.png "tescik")
 
 
 ## Prerequisites
